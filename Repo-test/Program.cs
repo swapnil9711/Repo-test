@@ -10,10 +10,10 @@ namespace Repo_test
     {
         public void div()
         {
-            int x = 97, o = 98 ;
-            int c=x/o;
+            int x = 97, O = 98 ;
+            int c=x/O;
         Console.WriteLine(c);}
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {Program p = new Program();
             p.div();
         }
