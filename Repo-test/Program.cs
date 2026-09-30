@@ -8,7 +8,7 @@ namespace Repo_test
 {
     internal class Program
     {
-        public void div()
+        public void Div()
         {
             int x = 97, O = 98 ;
             int c=x/O;
