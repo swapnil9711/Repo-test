@@ -13,9 +13,9 @@ namespace Repo_test
             int x = 97, O = 98 ;
             int c=x/O;
         Console.WriteLine(c);}
-        static void Main(string[] args) 
+        static void Main(string[] args)
         {Program p = new Program();
-            p.div();
+            p.Div();
         }
     }
 }
